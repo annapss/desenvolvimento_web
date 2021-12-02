@@ -1,8 +1,7 @@
-# formulario_bs
-Formulário Bootstrap
+# Trabalhos de Desenvolvimento Web
 
-Formulário feito por:
+Feito por:
 - Anna Paula Siqueira da Silva
 
 OBS:
-O arquivo csv possui dados que foram usados nas fases de teste.
+O arquivo dados.csv possui dados que foram usados nas fases de teste.
