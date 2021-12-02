@@ -182,13 +182,13 @@
       <div class="row">
         <div class="col">
           <div class="form-check">
-            <input type="radio" class ="form-check-input" name="termos" id="id_termos"> 
+            <input type="radio" class ="form-check-input" name="termos" value="concordo" id="id_termos"> 
             <label for="id_termos" class="form-check-label">
               Concordo com os termos
             </label>
           </div>
           <div class="form-check">
-            <input type="radio" class ="form-check-input" name="termos" id="id_termos"> 
+            <input type="radio" class ="form-check-input" name="termos" value="discordo" id="id_termos"> 
             <label for="id_termos" class="form-check-label">
               Não concordo com os termos
             </label>
