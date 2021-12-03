@@ -1,4 +1,4 @@
-
+<!--Código que faz com que os dados submetidos sejam enviados para dados.csv-->
 <?php
 
     $numero = $_POST["numero"];
